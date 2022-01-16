@@ -337,8 +337,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.xr.openxr@1.3.0/RuntimeDebugger/Editor/RuntimeDebuggerOpenXRFeatureEditor.cs"
-"Library/PackageCache/com.unity.xr.openxr@1.3.0/RuntimeDebugger/Editor/RuntimeDebuggerWindow.cs"
+"Library/PackageCache/com.unity.xr.openxr@1.3.1/RuntimeDebugger/Editor/RuntimeDebuggerOpenXRFeatureEditor.cs"
+"Library/PackageCache/com.unity.xr.openxr@1.3.1/RuntimeDebugger/Editor/RuntimeDebuggerWindow.cs"
 -langversion:9.0
 
 /deterministic
