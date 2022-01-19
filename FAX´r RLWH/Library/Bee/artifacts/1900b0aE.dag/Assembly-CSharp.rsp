@@ -364,7 +364,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/Script/AudioKeeper.cs"
+"Assets/Script/CollisionEnemy.cs"
+"Assets/Script/CollisionHandler.cs"
+"Assets/Script/Movement.cs"
+"Assets/Script/TutorialRemover.cs"
 "Assets/Scripts/ControllerHelper.cs"
+"Assets/Scripts/SecondLvlLoader.cs"
 -langversion:9.0
 
 /deterministic
