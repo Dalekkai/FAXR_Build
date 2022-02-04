@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:FAX´r RLWH/Assets/HansaringNPCs/Animation/Sitting/male_act_standup_chair.anim.meta
 guid: 077187e2a5de71a4b8de765580939861
+=======
+guid: 8d083697e7cb4b74ba45a9ecf086e516
+>>>>>>> parent of 160c9cee (Added more animated NPC):FAX´r RLWH/Assets/HansaringNPCs/Animation/sit_talk2.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
