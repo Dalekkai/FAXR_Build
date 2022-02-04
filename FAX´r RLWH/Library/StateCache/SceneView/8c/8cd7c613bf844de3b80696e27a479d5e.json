@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-49.74476623535156,"y":21.6734561920166,"z":4.509233474731445},"rotation":{"x":-0.20595404505729676,"y":-0.06542465835809708,"z":0.013757164590060711,"w":-0.9763212203979492},"size":22.885770797729493,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-49.79363250732422,"y":21.680694580078126,"z":4.502169132232666},"rotation":{"x":-0.05426209047436714,"y":0.14832159876823426,"z":-0.008157269097864628,"w":-0.9874386191368103},"size":1.34502112865448,"orthographic":true}
 >>>>>>> parent of 160c9cee (Added more animated NPC)
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-72.48765563964844,"y":21.11666488647461,"z":4.303503036499023},"rotation":{"x":0.02903389371931553,"y":0.755804717540741,"z":-0.03357096016407013,"w":0.6533183455467224},"size":10.847637176513672,"orthographic":true}
+>>>>>>> parent of 3fe8d0d2 (Added Sitting NPC)
